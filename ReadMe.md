@@ -1,6 +1,6 @@
 # IoT 004 - PIR Motion Sensor
 
-![IoT.004.gif](path/to/IoT.004.gif)
+![IoT.004.gif](IoT.004.gif)
 
 ## Opinion
 
