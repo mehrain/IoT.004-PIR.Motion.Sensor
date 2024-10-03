@@ -38,3 +38,5 @@ The project requires the following materials:
 - Breadboard.
 - Jumper wires.
 
+- Contributing is always possible hit me up on info@mehrain.dev
+
